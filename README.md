@@ -1,6 +1,6 @@
 # One Midnight theme for Emacs
 
-![Atom One Dark theme screenshot](http://i.imgur.com/qDnlEYc.png)
+![demo](./.docs/demo.png)
 
 ## Installation
 
