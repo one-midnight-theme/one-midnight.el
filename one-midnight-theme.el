@@ -28,7 +28,7 @@
 ;;; Code:
 
 (deftheme one-midnight
-  "Atom One Dark - An Emacs port of the Atom One Dark theme from Atom.io, now in midnight blurple.")
+  "One Midnight - An Emacs port of the Atom One Dark theme from Atom.io, now in midnight blurple.")
 
 (defvar one-midnight-colors-alist
   (let* ((256color  (eq (display-color-cells (selected-frame)) 256))
