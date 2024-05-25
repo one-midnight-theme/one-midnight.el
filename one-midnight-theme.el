@@ -51,7 +51,7 @@
                    ("one-midnight-orange-2" . "#E5C07B")
                    ("one-midnight-gray"     . (if ,256color "color-237" "#3E4451"))
                    ("one-midnight-silver"   . (if ,256color "color-247" "#9DA5B4"))
-                   ("one-midnight-black"    . (if ,256color "color-233" "#21252B"))
+                   ("one-midnight-black"    . (if ,256color "color-233" "#130c27"))
                    ("one-midnight-border"   . (if ,256color "color-232" "#181A1F")))))
     colors)
   "List of One Midnight colors.")
